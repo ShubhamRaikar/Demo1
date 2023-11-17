@@ -1,1 +1,2 @@
-System.debug('Welcome All');
+int number = 10;
+System.debug('Subham' + number);
